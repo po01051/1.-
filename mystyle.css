@@ -1,0 +1,15 @@
+		.rabbit {
+			color: red;
+		}
+		span.cat{
+			font-size: 50px;
+		}
+		.login-box{
+			width: 500px;
+    		background-color: green;
+    		margin: 50px auto 0 auto;
+    		padding: 50;
+		}
+		* {
+			font-family: 'Stylish', sans-serif;
+		}
